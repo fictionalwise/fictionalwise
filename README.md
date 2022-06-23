@@ -1,6 +1,6 @@
 ---
 ### Contact Me ✨
-![Discord][(https://discord.c99.nl/widget/theme-1/640526616350425100.png)](https://discord.c99.nl/widget/theme-1/640526616350425100.png)
+![Discord][(https://discord.c99.nl/widget/theme-1/640526616350425100.png)]
 ---
 
 ### Spotify Playing 🎧
