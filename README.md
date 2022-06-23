@@ -1,5 +1,7 @@
+### Howdy!
+
 ---
-### Contact Me ✨
+### Discord 💫:
 ![Discord](https://discord.c99.nl/widget/theme-2/640526616350425100.png)
 ---
 
