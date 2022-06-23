@@ -7,7 +7,7 @@
 ---
 
 ### GitHub Stats 🌟
-![Fnr's github stats](https://github-readme-stats.vercel.app/api?username=FnrDev&count_private=true&show_icons=true&theme=radical) <img src="https://github-readme-streak-stats.herokuapp.com/?user=FnrDev&theme=algolia&count-private=true&v=2">
+![Fnr's github stats](https://github-readme-stats.vercel.app/api?username=mezo-o&count_private=true&show_icons=true&theme=radical) <img src="https://github-readme-streak-stats.herokuapp.com/?user=mezo-o&theme=algolia&count-private=true&v=2">
 ---
 <img src="https://activity-graph.herokuapp.com/graph?username=FnrDev&custom_title=Ahmed%27s%20Contribution%20Graph&theme=react-dark&count-private=true">
 <br>
