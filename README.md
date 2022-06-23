@@ -9,7 +9,7 @@
 ### GitHub Stats 🌟
 ![Fnr's github stats](https://github-readme-stats.vercel.app/api?username=mezo-o&count_private=true&show_icons=true&theme=radical) <img src="https://github-readme-streak-stats.herokuapp.com/?user=mezo-o&theme=algolia&count-private=true&v=2">
 ---
-<img src="https://activity-graph.herokuapp.com/graph?username=FnrDev&custom_title=Ahmed%27s%20Contribution%20Graph&theme=react-dark&count-private=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=Mezo&custom_title=Mezo%27s%20Contribution%20Graph&theme=react-dark&count-private=true">
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mezo-o&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
 <a href="https://github.com/mezo-o?tab=followers">
