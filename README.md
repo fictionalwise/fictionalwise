@@ -1,4 +1,4 @@
-### Howdy!
+### Welcome!
 
 ---
 ### Discord 💫:
